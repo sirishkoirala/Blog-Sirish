@@ -1,0 +1,7 @@
+.test{
+   border: 2px solid red;
+}
+.contains{
+   max-width: 1200px;
+   margin: auto;
+}
