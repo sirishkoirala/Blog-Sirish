@@ -5,3 +5,9 @@
    max-width: 1200px;
    margin: auto;
 }
+
+@media only screen and (max-width: 600px) {
+   .contains {
+      max-width: 94%;
+   }
+}
